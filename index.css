@@ -1,0 +1,109 @@
+*{
+    box-sizing: border-box;
+    background-color: rgb(158, 204, 223);
+}
+
+#fx{
+    position: fixed; /*위치 고정하는*/
+    top:10px;
+    right:10px;
+    width: 50px;
+    height: 150px;
+    
+}
+
+#container {
+    width: 1000px;
+    height: 1200px;
+    margin: 0 auto;
+}
+#header {
+    width: 95%;
+    padding: 20px;
+    
+    color: deepskyblue; 
+    text-decoration: none;
+    float: left;
+    text-align: center;
+}
+#join{
+    width: 5%;
+    float: right;
+    padding-top: 58px;
+    display: inline-block; 
+    
+}
+
+
+    
+
+#bono{
+    width: 400px;
+    height: 300px;
+   
+    float:left;
+    
+}
+
+#bonoimg{width: 400px;
+    height: 300px;}
+
+
+#menu{
+    float:right;
+    
+} 
+
+#story{
+    height: 430px;
+    
+
+   
+    
+}
+    
+#sound{
+width:600px;
+height: 400px;
+text-align: center;
+
+margin-top: 20px;
+clear:both;
+float:left;
+
+}
+
+#sound2{
+    width:600px;
+    height: 400px;
+}
+
+#back{
+    position: relative;
+    text-align: center;
+    width: 200px;
+    height: 320px;
+    background-color: greenyellow;
+    float:right;
+    top:30px;
+    
+}
+.bo{
+    width: 200px;
+    height: 100px;
+}
+
+#footer{
+    clear: both;
+   text-align: center;
+    width: 1000px;
+    height: 200px;
+    margin-top: 700px;
+    padding: 30px;
+    border-top: 1px solid white;
+    
+    
+    
+}
+
+
